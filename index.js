@@ -3,6 +3,5 @@ function greet(name) {
  return('Hello ' +  name) 
  }
 }
-function
 
 module.exports = greet;
